@@ -1,3 +1,5 @@
+KC TRAIL SCOUT is a responsive web application, built on the MERN stack and incorporating various 3rd party APIs to aggregate and present information to Kansas City metro-area mountain bike enthusiasts.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
